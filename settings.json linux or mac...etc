@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "OM Theme (Night Owl Italic)",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editor.enablePreview": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 24,
+    "explorer.compactFolders": false,
+    "window.zoomLevel": 0,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "clear ; python3 -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme":"OM Theme (Night Owl Italic)",
+    "python.defaultInterpreterPath": "python"
+
+
+    
+
+
+}
